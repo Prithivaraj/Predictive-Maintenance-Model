@@ -24,6 +24,16 @@ The dataset predictive_maintenance.xlsx consists of 10,000 data points stored as
 * Failure Type : Type of Failure
 ![image](https://user-images.githubusercontent.com/132809858/236670827-452abe14-12e1-4151-829a-1782e98481dc.png)
 
+# Results:
+Model Comparison and Oversampling
+
+![image](https://user-images.githubusercontent.com/132809858/236671658-d9e09c0b-f2f2-4519-a244-ed6c7c283e71.png)
+
+Undersampling
+![image](https://user-images.githubusercontent.com/132809858/236671802-022ffa33-a307-413e-8fca-f2a672512bfe.png)
+
+
+
 
 
 
