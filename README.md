@@ -13,7 +13,8 @@ A manufacturing company decides to invest in proactive maintenance methods to re
 
 # Data Summary
 The dataset predictive_maintenance.xlsx consists of 10,000 data points stored as rows with 14 features in columns.
-![image](https://user-images.githubusercontent.com/132809858/236668845-d90dc400-a045-4776-b30a-00df113ec318.png)
+![image](https://user-images.githubusercontent.com/132809858/236669027-3e8eafea-3ef5-4b80-a3c1-08b2257acf94.png)
+
 
 
 
