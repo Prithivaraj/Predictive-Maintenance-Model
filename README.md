@@ -30,7 +30,9 @@ Model Comparison and Oversampling
 ![image](https://user-images.githubusercontent.com/132809858/236671658-d9e09c0b-f2f2-4519-a244-ed6c7c283e71.png)
 
 Undersampling
-![image](https://user-images.githubusercontent.com/132809858/236671802-022ffa33-a307-413e-8fca-f2a672512bfe.png)
+
+![image](https://user-images.githubusercontent.com/132809858/236672058-7d64a093-0295-48a2-b32e-605b46b88337.png)
+
 
 
 
