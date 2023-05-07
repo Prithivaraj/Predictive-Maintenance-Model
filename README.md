@@ -13,7 +13,18 @@ A manufacturing company decides to invest in proactive maintenance methods to re
 
 # Data Summary
 The dataset predictive_maintenance.xlsx consists of 10,000 data points stored as rows with 14 features in columns.
-![image](https://user-images.githubusercontent.com/132809858/236669027-3e8eafea-3ef5-4b80-a3c1-08b2257acf94.png)
+* UID: unique identifier ranging from 1 to 10000
+* productID: consisting of a letter L, M, or H for low (50% of all products), medium (30%), and high (20%) as product quality variants 
+* air temperature [K]: This is the air temperature generated from the machine
+* process temperature [K]: generated using a random walk process normalized to a standard deviation of 1 K.
+* rotational speed [rpm]: calculated from powepower of 2860 W, overlaid with a normally distributed noise
+* torque [Nm]: torque values are normally distributed around 40 Nm with an Ïƒ = 10 Nm and no negative values.
+* tool wear [min]: The quality variants H/M/L add 5/3/2 minutes of tool wear to the used tool in the process. 
+* Target : Failure or Not
+* Failure Type : Type of Failure
+![image](https://user-images.githubusercontent.com/132809858/236670827-452abe14-12e1-4151-829a-1782e98481dc.png)
+
+
 
 
 
